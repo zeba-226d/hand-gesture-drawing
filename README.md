@@ -53,5 +53,9 @@ To add it, run in your terminal:
 cd hand-gesture-drawing
 
 
+https://github.com/user-attachments/assets/fbf18ed4-6570-4b77-8660-635865af86aa
+
+
+
 
 
